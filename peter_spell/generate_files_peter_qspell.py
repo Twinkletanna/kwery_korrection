@@ -1,3 +1,10 @@
+"""
+Look at https://norvig.com/spell-correct.html
+https://github.com/barrust/pyspellchecker
+https://pyspellchecker.readthedocs.io/en/latest/
+
+Working in mappy2. But might need to shift to python3
+"""
 import random
 import pyautocorrect
 from tqdm import tqdm
