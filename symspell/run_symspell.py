@@ -1,3 +1,5 @@
+#referred https://github.com/mammothb/symspellpy
+
 import os
 from collections import Counter
 from symspellpy.symspellpy import SymSpell, Verbosity  # import the module
