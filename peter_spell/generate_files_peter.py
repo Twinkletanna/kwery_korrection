@@ -1,3 +1,7 @@
+"""
+For peter spell: Look at https://norvig.com/spell-correct.html and https://github.com/barrust/pyspellchecker
+For pyautocorrect: Refer https://github.com/PandaWhoCodes/pyautocorrect
+"""
 import random
 import pyautocorrect
 from tqdm import tqdm
